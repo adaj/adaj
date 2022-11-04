@@ -7,7 +7,7 @@ Featured Work: Designing a collaborative conversational agent for science educat
 
 I am currently developing Clair (Collaborative learning agent for interactive reasoning). 
 
-Clair's prototype is running on [graasp.eu](https://graasp.eu/); contact me if you wish to test or interact with it.
+Clair's prototype is running on (GoLab)[https://www.golabz.eu/] and [graasp.eu](https://graasp.eu/); contact me if you wish to test or interact with it.
 
 
 
