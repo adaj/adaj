@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adaj
+- 👋 Hi, I’m Adelson
 - 👀 I’m interested in educational research, programming, AI development, and growth opportunities.
 - 🌱 I’m currently learning more about learning sciences.
 - 📫 How to reach me: a.dearaujo@utwente.nl 
