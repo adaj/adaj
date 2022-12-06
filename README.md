@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning more about learning sciences.
 - 📫 How to reach me: a.dearaujo@utwente.nl 
 
-Featured Work: Designing a collaborative conversational agent for science education ([PhD project](https://docs.google.com/document/d/1uJyHMEyYdVQylp6tI4gXH4euJcMqFQFo/edit?usp=sharing&ouid=117296470013615203144&rtpof=true&sd=true)). 
+Featured Work: Designing a collaborative conversational agent for science education. 
 
 I am currently developing Clair (Collaborative learning agent for interactive reasoning). 
+
+More precisely, I am currently experimenting Clair with dozens of students in Brazil and the Netherlands.
 
 Clair's prototype is running on [Go-Lab](https://www.golabz.eu/) and [graasp.eu](https://graasp.eu/); contact me if you wish to test or interact with it.
 
