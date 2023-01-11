@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adelson
-- 👀 I’m interested in educational research, programming, AI development, and growth opportunities.
-- 🌱 I’m currently learning more about learning sciences.
+- 👀 I’m interested in instructional technologies, programming, and growth opportunities.
+- 🌱 I’m currently learning more about conversational agents.
 - 📫 How to reach me: a.dearaujo@utwente.nl 
 
 Featured Work: Designing a collaborative conversational agent for science education. 
