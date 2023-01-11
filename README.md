@@ -5,7 +5,7 @@
 
 Featured Work: Designing a collaborative conversational agent for science education. 
 
-I am currently developing Clair (Collaborative learning agent for interactive reasoning). 
+I am currently developing [Clair](https://docs.google.com/presentation/d/1LnINQ8ErZn4EkYuBrSE79vObzBoe9lrWxebTceHI6yY/edit?usp=sharing) (Collaborative learning agent for interactive reasoning).  
 
 More precisely, I am currently experimenting Clair with dozens of students in Brazil and the Netherlands.
 
