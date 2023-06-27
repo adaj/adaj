@@ -1,17 +1,13 @@
 - 👋 Hi, I’m Adelson
 - 👀 I’m interested in instructional technologies, programming, and growth opportunities.
-- 🌱 I’m currently learning more about conversational agents.
+- 🌱 I’m currently doing my PhD and learning more about conversational agents for human-human collaboration.
 - 📫 How to reach me: a.dearaujo@utwente.nl 
 
-Featured Work: [Designing a collaborative conversational agent for science education](https://docs.google.com/presentation/d/1LnINQ8ErZn4EkYuBrSE79vObzBoe9lrWxebTceHI6yY/edit?usp=sharing). 
+Featured Work: PhD project "Collaborative conversational agent for science education" ([presented at ISLS23](https://docs.google.com/presentation/d/1D_vEvAn6I7nYSniavMn7zcz27goYEEkT/edit?usp=sharing&ouid=117296470013615203144&rtpof=true&sd=true)). 
 
-I am currently developing Clair (Collaborative learning agent for interactive reasoning).  
+I am currently developing Clair (Collaborative learning agent for interactive reasoning), and currently evaluating Clair with dozens of secondary students in Brazil and the Netherlands.
 
-More precisely, I am currently experimenting Clair with dozens of students in Brazil and the Netherlands.
-
-Clair's prototype is running on [Go-Lab](https://www.golabz.eu/) and [graasp.eu](https://graasp.eu/); contact me if you wish to test or interact with it.
-
-
+Clair's prototype is running on [Go-Lab](https://www.golabz.eu/) and [graasp.eu](https://graasp.eu/); contact me if you wish to know more or interact with it.
 
 <!---
 adaj/adaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
